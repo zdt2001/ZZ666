@@ -1,4 +1,5 @@
 # ZZ666
-docker
-随便写
-不不不
+#include<stdio.h>
+int main (){
+    Printf("hello world\n");
+}
